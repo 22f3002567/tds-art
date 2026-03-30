@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic, high-fashion editorial photograph set within a sunlit, textural bespoke tailor's workshop. A bizarrely tailored men's suit jacket stands prominently in the center on a wooden mannequin. The jacket, made of heavy gray tweed and lined with deep blue silk, is molded into an absurd, frozen, static posture: it has a permanent, rigid, sharp kink in the left shoulder, a bulging square pocket perfectly molded to hold a specific thick wallet, and asymmetrical, wrinkled sleeves that look frozen in the middle of a complex gesture. It is a masterpiece of exact, obsessive tailoring to a single, past moment. A tailor's measuring tape with no legible numbers is draped over the jacket. Scattered on the worn wooden floor are other fabrics, bobbins, and unused patterns, bathed in shafts of warm, dusty light from a large window on the left. The scene is intimate yet grand. There are absolutely no text, labels, diagrams, glowing data, mathematical notation, equations, or robotic elements visible anywhere in the image itself. The composition emphasizes the contrast between the exquisite craft and the uselessness of the form.",
+  "model": "Banana (Gemini Imagen)",
+  "concept": "Overfitting",
+  "metaphor": "A suit obsessively tailored to one person's temporary posture, wallet bulge, and wrinkles fits that specific data perfectly, but fails completely to generalize.",
+  "publish_email": true
+}
