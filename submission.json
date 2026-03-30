@@ -1,0 +1,8 @@
+{
+  "prompt": "Wide-angle editorial illustration rendered as a textural oil painting with cinematic lighting. A vast wooden banquet table dominates the composition, stretching across the entire frame. On the far left, a dense crowd of ninety-nine diverse individuals with gaunt, weary faces, tired eyes, and plain, worn clothing are tightly packed together, sharing only a single, tiny ceramic plate with a few scattered crumbs. This side of the scene is cast in cold, deep shadow, bathed in desaturated blue-grey tones. On the far right, sitting alone and massive in scale, is one ornate figure with plump features and luxurious, golden robes, surrounded by mountains of glistening food, overflowing platters, roast meats, towering cakes, and elaborate feasts covering half the table. This side of the scene glows with warm golden light and amber colors. The remaining 99 crowd is looking across the vast empty space separating them, their expressions of hunger and profound despair evident. The scene balances moral weight and visceral imbalance. The style is conceptual illustration with a deep, textured feel, suitable for a magazine story opening. There are absolutely no chart elements, bar charts, pie charts, line graphs, no text, no labels, no legends, no numbers, no chart elements.",
+  "model": "Banana (Gemini Imagen)",
+  "dataset_name": "World Inequality Database - Top 1% wealth share globally",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "The World Inequality Database confirms that the wealthiest 1% captured 38% of all additional wealth accumulated since 1995, while the bottom 50% captured just 2%.",
+  "publish_email": true
+}
