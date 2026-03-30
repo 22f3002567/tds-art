@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic architectural photograph of a surreal, impossible, monumental concrete space. The image features a large, primary structure made of several smaller, distinct, separate staircases. On every individual small staircase, the architectural lines clearly indicate that the stairs are descending downward. Small, silhouetted figures on these individual stairs are walking downward. However, due to an impossible, Escher-like optical illusion in the spatial geometry, the collective arrangement of all these downward-pointing staircases combines to form one massive, overarching staircase that is undeniably ascending upward toward a bright light at the top of the frame. Local descent creates global ascent. Cinematic lighting, deep shadows, raw concrete textures. No text, no charts, no numbers, purely physical spatial contradiction. Minimum 1024px on the short side.",
+  "model": "Banana (Gemini Imagen)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Local trends (downward movement on individual stairs) seamlessly combine, due to impossible Escher-like geometry, to create a global upward trend (the overarching massive ascending staircase). This visibly embodies the data's structural contradiction.",
+  "publish_email": true
+}
